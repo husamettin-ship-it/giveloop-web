@@ -1,0 +1,5 @@
+/legal            /privacy-policy/   301
+/legal/*          /privacy-policy/   301
+/privacy-policy   /privacy-policy/   301
+/terms-of-use     /terms-of-use/     301
+/child-safety     /child-safety/     301
